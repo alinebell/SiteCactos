@@ -1,6 +1,5 @@
 Site galeria de fotos de cactos e suculentas
 
-Em construção
+Concluído
 
-HTML
-CSS
+Uitlizado HTML e CSS
